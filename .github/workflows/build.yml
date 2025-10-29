@@ -2,7 +2,7 @@ name: 构建
 
 on:
   push:
-    branches: [ '0.3.2.1' ]
+    branches: [ 'lychee' ]
     paths: [ 'version.txt' ]
 
 env:
