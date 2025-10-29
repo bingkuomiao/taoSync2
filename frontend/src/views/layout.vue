@@ -104,17 +104,17 @@
 
 				.left-top-logo-in {
 					width: 140px;
-					height: 44.8px;
+					height: 64px;
 					cursor: pointer;
 					background-image: url('/logo-200-64.png');
-					background-size: 140px 44.8px;
+					background-size: 140px 64px;
 					transition: all .3s ease-in-out;
 					background-repeat: no-repeat;
 					background-position: 0 0;
 				}
 
 				.isCollapse {
-					width: 44.8px;
+					width: 64px;
 				}
 			}
 

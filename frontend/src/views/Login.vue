@@ -222,8 +222,8 @@
 			}
 
 			.logo {
-	                        color: #1A1A1A;
-				background-image: url('/logo-200-64.png');
+	            color: #1A1A1A;
+				background-image: url('/logo-280-128.png');
 				background-position: center 0;
 				background-repeat: no-repeat;
 				width: 400px;
